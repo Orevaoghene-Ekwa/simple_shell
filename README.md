@@ -1,1 +1,1 @@
-A Collaborative effort by Orevaoghene Ekwa and AGhogho Ken-Erhimu under the ALX AFrica program, to implement a simple unix-like operating system "hsh" that is based on bash and sh. hsh works both in interactive mode, and non-interactive mode.
+A Collaborative effort by Orevaoghene Ekwa and Aghogho Ken-Erhimu under the ALX AFrica program, to implement a simple unix-like operating system "hsh" that is based on bash and sh. hsh works both in interactive mode, and non-interactive mode.
